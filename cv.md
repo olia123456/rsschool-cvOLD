@@ -20,5 +20,4 @@ age: 40
 
 ## Education
 1. 1990-2001 School number 11 of the city of Slutsk.
-2. 2001-2006 BNTU
-
+2. 2001-2006 BNTU profession marketing specialist.
